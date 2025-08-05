@@ -205,3 +205,10 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+
+# Ignore Jupyter/VSCode virtual docs
+.virtual_documents/
+
+# Ignore Anaconda project DB
+anaconda_projects/
