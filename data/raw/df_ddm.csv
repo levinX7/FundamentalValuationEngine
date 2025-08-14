@@ -1,0 +1,615 @@
+Ticker,Error,Sector,Dividend (D0),Growth Rate,Cost of Equity,Value per Share,Shares Outstanding,Intrinsic Firm Value (B)
+TXG,No dividend,,,,,,,
+MMM,,Industrials,2.92,0.04,0.095,55.22,0.53,29.41
+AOS,,Industrials,1.36,0.04,0.1006,23.36,0.11,2.67
+AAON,,Industrials,0.4,0.04,0.0873,8.8,0.08,0.72
+ABT,,Healthcare,2.36,0.05,0.0758,95.9,1.74,166.91
+ABBV,,Healthcare,6.56,0.05,0.0661,426.66,1.77,753.72
+ACHC,No dividend,,,,,,,
+ACN,,Technology,5.92,0.07,0.1039,186.75,0.62,116.31
+AYI,,Industrials,0.68,0.04,0.1209,8.74,0.03,0.27
+ADBE,No dividend,,,,,,,
+ADT,,Industrials,0.22,0.04,0.1002,3.8,0.77,2.91
+AAP,,Consumer Cyclical,1.0,0.06,0.0937,31.46,0.06,1.89
+WMS,,Industrials,0.72,0.04,0.1029,11.91,0.08,0.93
+AMD,No dividend,,,,,,,
+ACM,,Industrials,1.04,0.04,0.0898,21.74,0.13,2.88
+AES,,Utilities,0.7,0.03,0.0879,12.46,0.71,8.87
+AMG,,Financial Services,0.04,0.05,0.097,0.89,0.03,0.03
+AFRM,No dividend,,,,,,,
+AFL,,Financial Services,2.32,0.05,0.0811,78.4,0.53,41.93
+AGCO,,Industrials,1.16,0.04,0.0999,20.14,0.07,1.5
+A,,Healthcare,0.99,0.05,0.1005,20.58,0.28,5.85
+ADC,,Real Estate,3.07,0.03,0.0684,82.35,0.11,9.11
+AGNC,,Real Estate,1.44,0.03,0.1032,20.28,1.04,21.12
+AL,,Industrials,0.88,0.04,0.1101,13.06,0.11,1.46
+APD,,Basic Materials,7.16,0.04,0.0813,180.46,0.22,40.16
+ABNB,No dividend,,,,,,,
+AKAM,No dividend,,,,,,,
+ALK,No dividend,,,,,,,
+ALB,No beta,,,,,,,
+ACI,,Consumer Defensive,0.6,0.04,0.0571,36.55,0.56,20.46
+AA,,Basic Materials,0.4,0.04,0.1496,3.8,0.26,0.98
+ARE,,Real Estate,5.28,0.03,0.1021,75.38,0.17,12.87
+ALGN,No dividend,,,,,,,
+ALLE,,Industrials,2.04,0.04,0.0929,40.08,0.09,3.44
+ALGM,No dividend,,,,,,,
+LNT,,Utilities,2.03,0.03,0.0675,55.7,0.26,14.31
+ALSN,,Consumer Cyclical,1.08,0.06,0.0881,40.77,0.08,3.41
+ALL,,Financial Services,4.0,0.05,0.0585,496.22,0.26,130.76
+ALLY,,Financial Services,1.2,0.05,0.0971,26.75,0.31,8.23
+ALNY,No dividend,,,,,,,
+GOOGL,,Communication Services,0.84,0.05,0.0907,21.69,5.82,126.15
+GOOG,,Communication Services,0.84,0.05,0.0907,21.69,5.43,117.75
+MO,,Consumer Defensive,4.08,0.04,0.0719,133.0,1.68,223.42
+AMZN,No dividend,,,,,,,
+AMCR,,Consumer Cyclical,0.51,0.06,0.0773,31.28,2.29,71.68
+DOX,"r <= g (r=0.07, g=0.07)",,,,,,,
+AMED,No dividend,,,,,,,
+AMTM,No dividend,,,,,,,
+AS,No dividend,,,,,,,
+AEE,,Utilities,2.84,0.03,0.0641,85.71,0.27,23.18
+AAL,No dividend,,,,,,,
+AEP,,Utilities,3.72,0.03,0.0606,125.12,0.53,66.91
+AXP,,Financial Services,3.28,0.05,0.1036,64.27,0.7,44.73
+AFG,,Financial Services,3.2,0.05,0.0773,123.17,0.08,10.27
+AMH,,Real Estate,1.2,0.03,0.0771,26.22,0.37,9.71
+AIG,,Financial Services,1.8,0.05,0.073,82.32,0.55,45.6
+AMT,,Real Estate,6.8,0.03,0.0819,134.86,0.47,63.15
+AWK,,Utilities,3.31,0.03,0.0729,79.45,0.2,15.5
+COLD,,Real Estate,0.92,0.03,0.0815,18.42,0.28,5.24
+AMP,,Financial Services,6.4,0.05,0.1012,131.29,0.09,12.38
+AME,,Industrials,1.24,0.04,0.0949,23.47,0.23,5.42
+AMGN,,Healthcare,9.52,0.05,0.065,664.63,0.54,357.81
+AMKR,,Technology,0.33,0.07,0.1311,5.78,0.25,1.43
+APH,,Technology,0.66,0.07,0.0964,26.77,1.22,32.68
+ADI,,Technology,3.96,0.07,0.0925,188.35,0.5,93.47
+ANGI,No dividend,,,,,,,
+AU,,Basic Materials,0.93,0.04,0.0647,39.15,0.5,19.76
+NLY,,Real Estate,2.8,0.03,0.1026,39.71,0.64,25.5
+ANSS,No dividend,,,,,,,
+AM,,Energy,0.9,0.03,0.0886,15.83,0.48,7.57
+AR,No dividend,,,,,,,
+AON,,Financial Services,2.98,0.05,0.0819,97.98,0.22,21.13
+APA,,Energy,1.0,0.03,0.101,14.51,0.36,5.19
+APG,No dividend,,,,,,,
+APLS,No dividend,,,,,,,
+APO,,Financial Services,2.04,0.05,0.1191,30.98,0.57,17.72
+APPF,No dividend,,,,,,,
+AAPL,,Technology,1.04,0.07,0.0979,39.86,14.84,591.49
+AMAT,,Technology,1.84,0.07,0.1233,36.93,0.8,29.64
+APP,No dividend,,,,,,,
+ATR,,Healthcare,1.8,0.05,0.0696,96.67,0.07,6.37
+APTV,No dividend,,,,,,,
+ARMK,,Industrials,0.42,0.04,0.109,6.33,0.26,1.66
+ACGL,No dividend,,,,,,,
+ADM,,Consumer Defensive,2.04,0.04,0.0738,62.81,0.48,30.18
+ARES,,Financial Services,4.48,0.05,0.1101,78.25,0.21,16.82
+ANET,No dividend,,,,,,,
+AWI,,Industrials,1.23,0.04,0.1105,18.13,0.04,0.78
+ARW,No dividend,,,,,,,
+AJG,,Financial Services,2.6,0.05,0.0749,109.52,0.26,28.08
+ASH,,Basic Materials,1.66,0.04,0.0651,68.68,0.05,3.14
+AIZ,,Financial Services,3.2,0.05,0.0698,169.77,0.05,8.61
+AGO,,Financial Services,1.36,0.05,0.0834,42.72,0.05,2.09
+ALAB,No dividend,,,,,,,
+ASTS,No dividend,,,,,,,
+T,,Communication Services,1.11,0.05,0.0719,53.33,7.15,381.3
+ATI,No dividend,,,,,,,
+TEAM,No dividend,,,,,,,
+ATO,,Utilities,3.48,0.03,0.0748,80.04,0.16,12.85
+AUR,No dividend,,,,,,,
+ADSK,No dividend,,,,,,,
+ADP,,Technology,6.16,0.07,0.0814,580.21,0.41,235.01
+AN,No dividend,,,,,,,
+AZO,No dividend,,,,,,,
+AVB,,Real Estate,7.0,0.03,0.0836,134.6,0.14,19.16
+AVTR,No dividend,,,,,,,
+AVY,,Consumer Cyclical,3.76,0.06,0.0846,161.86,0.08,12.62
+CAR,No dividend,,,,,,,
+AVT,,Technology,1.32,0.07,0.0936,59.85,0.08,5.02
+AXTA,No dividend,,,,,,,
+AXS,,Financial Services,1.76,0.05,0.0819,57.87,0.08,4.52
+AXON,No dividend,,,,,,,
+AZEK,No dividend,,,,,,,
+AZTA,No dividend,,,,,,,
+BKR,,Energy,0.92,0.03,0.0863,16.83,0.99,16.59
+BALL,,Consumer Cyclical,0.8,0.06,0.0939,24.99,0.27,6.8
+BAC,,Financial Services,1.12,0.05,0.1051,21.34,7.41,158.03
+OZK,,Financial Services,1.76,0.05,0.0837,54.82,0.11,6.17
+CG,,Financial Services,1.4,0.05,0.1326,17.79,0.36,6.39
+KMX,No dividend,,,,,,,
+CCL,No dividend,,,,,,,
+CARR,,Industrials,0.9,0.04,0.1023,15.03,0.85,12.79
+CRI,,Consumer Cyclical,1.0,0.06,0.0894,36.08,0.04,1.31
+CVNA,No dividend,,,,,,,
+CASY,,Consumer Cyclical,2.28,0.06,0.075,160.86,0.04,5.98
+CAT,,Industrials,6.04,0.04,0.1091,90.96,0.47,42.61
+CAVA,No dividend,,,,,,,
+CBOE,,Financial Services,2.52,0.05,0.0639,190.52,0.1,19.93
+CBRE,No dividend,,,,,,,
+CCCS,No dividend,,,,,,,
+CDW,,Technology,2.5,0.07,0.0871,156.25,0.13,20.48
+CE,,Basic Materials,0.12,0.04,0.095,2.27,0.11,0.25
+CELH,No dividend,,,,,,,
+COR,,Healthcare,2.2,0.05,0.0698,116.71,0.19,22.63
+CNC,No dividend,,,,,,,
+CNP,,Utilities,0.88,0.03,0.0695,22.97,0.65,15.0
+CERT,No dividend,,,,,,,
+CF,,Basic Materials,2.0,0.04,0.0863,44.92,0.16,7.28
+CRL,No dividend,,,,,,,
+SCHW,,Financial Services,1.08,0.05,0.0878,29.97,1.82,54.45
+CHTR,No dividend,,,,,,,
+CHE,,Healthcare,2.4,0.05,0.0641,178.98,0.01,2.61
+CC,,Basic Materials,0.35,0.04,0.1183,4.65,0.15,0.7
+LNG,,Energy,2.0,0.03,0.0624,63.49,0.22,13.95
+CVX,,Energy,6.84,0.03,0.0824,134.53,2.01,271.06
+CMG,No dividend,,,,,,,
+CHH,,Consumer Cyclical,1.15,0.06,0.0885,42.83,0.05,1.98
+COIN,No dividend,,,,,,,
+CL,,Consumer Defensive,2.08,0.04,0.0589,114.19,0.81,92.29
+COLB,,Financial Services,1.44,0.05,0.0754,59.62,0.21,12.54
+COLM,,Consumer Cyclical,1.2,0.06,0.0896,42.95,0.06,2.37
+CMCSA,,Communication Services,1.32,0.05,0.0863,38.23,3.68,140.79
+CMA,,Financial Services,2.84,0.05,0.0883,77.92,0.13,10.01
+FIX,,Industrials,2.0,0.04,0.1136,28.27,0.04,1.0
+CBSH,,Financial Services,1.1,0.05,0.0711,54.77,0.13,7.31
+CAG,,Consumer Defensive,1.4,0.04,0.0457,255.62,0.48,122.36
+CNXC,"r <= g (r=0.07, g=0.07)",,,,,,,
+CFLT,No dividend,,,,,,,
+COP,,Energy,3.12,0.03,0.0745,72.22,1.25,90.2
+ED,,Utilities,3.4,0.03,0.0529,152.95,0.36,55.16
+STZ,,Consumer Defensive,4.08,0.04,0.0741,124.39,0.18,21.93
+CEG,,Utilities,1.55,0.03,0.0968,23.89,0.31,7.46
+COO,No dividend,,,,,,,
+CPRT,No dividend,,,,,,,
+CNM,No dividend,,,,,,,
+GLW,,Technology,1.12,0.07,0.0931,51.83,0.86,44.4
+CPAY,No dividend,,,,,,,
+CTVA,,Basic Materials,0.72,0.04,0.0778,19.81,0.68,13.45
+CSGP,No dividend,,,,,,,
+COST,,Consumer Defensive,5.2,0.04,0.0877,113.38,0.44,50.28
+CTRA,,Energy,0.88,0.03,0.0567,33.96,0.76,25.92
+COTY,No dividend,,,,,,,
+CPNG,No dividend,,,,,,,
+CUZ,,Real Estate,1.28,0.03,0.1058,17.39,0.17,2.92
+CR,,Industrials,0.92,0.04,0.1072,14.23,0.06,0.82
+CXT,,Industrials,0.68,0.04,0.0992,11.94,0.06,0.69
+CACC,No dividend,,,,,,,
+CRH,,Basic Materials,1.48,0.04,0.0994,25.93,0.67,17.43
+CROX,No dividend,,,,,,,
+CRWD,No dividend,,,,,,,
+CCI,,Real Estate,4.25,0.03,0.0858,78.48,0.44,34.18
+CCK,,Consumer Cyclical,1.04,0.06,0.0775,63.1,0.12,7.34
+CSX,,Industrials,0.52,0.04,0.1019,8.74,1.86,16.3
+CUBE,,Real Estate,2.08,0.03,0.0879,37.01,0.23,8.44
+CMI,,Industrials,8.0,0.04,0.0903,165.29,0.14,22.77
+CW,,Industrials,0.96,0.04,0.0986,17.04,0.04,0.64
+CVS,,Healthcare,2.66,0.05,0.0702,138.1,1.27,175.16
+DHI,,Consumer Cyclical,1.6,0.06,0.1065,36.5,0.3,10.88
+DHR,,Healthcare,1.28,0.05,0.0785,47.11,0.72,33.73
+DRI,,Consumer Cyclical,6.0,0.06,0.0778,357.14,0.12,41.64
+DAR,No dividend,,,,,,,
+DDOG,No dividend,,,,,,,
+DVA,No dividend,,,,,,,
+DAY,No dividend,,,,,,,
+DECK,No dividend,,,,,,,
+DE,,Industrials,6.48,0.04,0.0932,126.64,0.27,34.3
+DAL,,Industrials,0.75,0.04,0.1168,10.15,0.65,6.63
+DELL,,Technology,2.1,0.07,0.0946,91.49,0.34,31.17
+XRAY,,Healthcare,0.64,0.05,0.0878,17.76,0.2,3.54
+DVN,,Energy,0.96,0.03,0.0952,15.16,0.63,9.62
+DXCM,No dividend,,,,,,,
+FANG,,Energy,3.9,0.03,0.0932,63.59,0.29,18.41
+DKS,,Consumer Cyclical,4.85,0.06,0.0946,148.76,0.06,8.41
+DLR,,Real Estate,4.88,0.03,0.0872,87.92,0.34,29.99
+ECL,,Basic Materials,2.6,0.04,0.0933,50.72,0.28,14.39
+EIX,,Utilities,3.31,0.03,0.0783,70.53,0.38,27.14
+EW,No dividend,,,,,,,
+ELAN,No dividend,,,,,,,
+ESTC,No dividend,,,,,,,
+EA,,Communication Services,0.76,0.05,0.0764,30.21,0.25,7.56
+ESI,,Basic Materials,0.32,0.04,0.1023,5.34,0.24,1.29
+ELV,,Healthcare,6.84,0.05,0.0702,355.12,0.23,79.97
+EME,,Industrials,1.0,0.04,0.1031,16.49,0.04,0.74
+EMR,,Industrials,2.11,0.04,0.1049,33.8,0.56,19.02
+EHC,,Healthcare,0.76,0.05,0.0773,29.2,0.1,2.94
+ENOV,No dividend,,,,,,,
+ENPH,No dividend,,,,,,,
+ENTG,,Technology,0.4,0.07,0.1006,13.98,0.15,2.12
+ETR,,Utilities,2.4,0.03,0.0684,64.38,0.45,28.74
+NVST,No dividend,,,,,,,
+EOG,,Energy,4.08,0.03,0.0812,82.05,0.55,44.78
+EPAM,No dividend,,,,,,,
+EPR,,Real Estate,3.54,0.03,0.1062,47.84,0.08,3.64
+EQT,,Energy,0.63,0.03,0.0705,16.04,0.62,10.01
+EFX,,Industrials,2.0,0.04,0.1208,25.75,0.12,3.17
+EQIX,,Real Estate,18.76,0.03,0.0846,353.74,0.1,34.62
+EQH,,Financial Services,1.08,0.05,0.0962,24.52,0.3,7.4
+ELS,,Real Estate,2.06,0.03,0.076,46.09,0.19,8.93
+EQR,,Real Estate,2.77,0.03,0.0869,50.16,0.38,19.16
+ESAB,,Industrials,0.4,0.04,0.1013,6.78,0.06,0.41
+WTRG,,Utilities,1.37,0.03,0.0786,29.05,0.28,8.15
+ESS,,Real Estate,10.28,0.03,0.0809,208.11,0.06,13.4
+EL,,Consumer Defensive,1.4,0.04,0.0984,24.91,0.23,5.83
+ETSY,No dividend,,,,,,,
+HHH,No dividend,,,,,,,
+HWM,,Industrials,0.48,0.04,0.1131,6.83,0.4,2.75
+HPQ,,Technology,1.16,0.07,0.1048,35.63,0.94,33.47
+HUBB,,Industrials,5.28,0.04,0.089,112.08,0.05,5.96
+HUBS,No dividend,,,,,,,
+HUM,,Healthcare,3.54,0.05,0.0635,275.25,0.12,33.11
+HBAN,,Financial Services,0.62,0.05,0.088,17.14,1.47,25.12
+HII,,Industrials,5.4,0.04,0.0573,324.4,0.04,12.73
+HUN,,Basic Materials,1.0,0.04,0.0762,28.71,0.17,4.99
+H,,Consumer Cyclical,0.6,0.06,0.1122,12.19,0.04,0.51
+IAC,No dividend,,,,,,,
+IBM,,Technology,6.72,0.07,0.0745,1599.29,0.93,1489.77
+IDA,,Utilities,3.44,0.03,0.0684,92.16,0.05,4.98
+IEX,,Industrials,2.84,0.04,0.0915,57.36,0.08,4.32
+IDXX,No dividend,,,,,,,
+ITW,,Industrials,6.44,0.04,0.0952,121.37,0.29,35.38
+ILMN,No dividend,,,,,,,
+INCY,No dividend,,,,,,,
+INFA,No dividend,,,,,,,
+IR,,Industrials,0.08,0.04,0.1098,1.19,0.4,0.47
+INGM,No beta,,,,,,,
+INGR,,Consumer Defensive,3.2,0.04,0.076,92.36,0.06,5.94
+INSP,No dividend,,,,,,,
+PODD,No dividend,,,,,,,
+INTC,No dividend,,,,,,,
+IBKR,,Financial Services,0.32,0.05,0.1007,6.63,0.45,2.95
+ICE,,Financial Services,1.92,0.05,0.0958,44.06,0.57,25.22
+IFF,,Basic Materials,1.6,0.04,0.0926,31.61,0.26,8.1
+IP,,Consumer Cyclical,1.85,0.06,0.0897,66.0,0.53,34.85
+IPG,,Communication Services,1.32,0.05,0.092,33.03,0.37,12.1
+INTU,,Technology,4.16,0.07,0.1038,131.79,0.28,36.76
+ISRG,No dividend,,,,,,,
+IVZ,,Financial Services,0.84,0.05,0.1146,13.66,0.45,6.09
+INVH,,Real Estate,1.16,0.03,0.0794,24.19,0.61,14.83
+IONS,No dividend,,,,,,,
+IPGP,No dividend,,,,,,,
+IQV,No dividend,,,,,,,
+IRDM,,Communication Services,0.6,0.05,0.0787,21.97,0.11,2.33
+IRM,,Real Estate,3.14,0.03,0.0945,50.13,0.3,14.81
+ITT,,Industrials,1.4,0.04,0.1085,21.26,0.08,1.66
+JBL,,Technology,0.32,0.07,0.0996,11.57,0.11,1.24
+J,,Industrials,1.28,0.04,0.0793,33.88,0.12,4.05
+JHX,No dividend,,,,,,,
+JHG,,Financial Services,1.6,0.05,0.1109,27.57,0.16,4.3
+JAZZ,No dividend,,,,,,,
+JBHT,,Industrials,1.76,0.04,0.1036,28.77,0.1,2.78
+JEF,,Financial Services,1.6,0.05,0.1114,27.38,0.21,5.65
+JNJ,,Healthcare,5.2,0.05,0.0612,489.6,2.41,1179.12
+JCI,,Industrials,1.48,0.04,0.1049,23.71,0.65,15.51
+JLL,No dividend,,,,,,,
+JPM,,Financial Services,5.6,0.05,0.0951,130.27,2.75,358.22
+KRMN,No dividend,,,,,,,
+KBR,,Industrials,0.66,0.04,0.0787,17.75,0.13,2.29
+K,,Consumer Defensive,2.32,0.04,0.0554,156.27,0.35,54.33
+KMPR,,Financial Services,1.28,0.05,0.1024,25.66,0.06,1.61
+KVUE,,Consumer Defensive,0.83,0.04,0.0797,21.75,1.92,41.75
+KDP,,Consumer Defensive,0.92,0.04,0.0643,39.34,1.36,53.44
+KEY,,Financial Services,0.82,0.05,0.0954,18.97,1.1,20.81
+KEYS,No dividend,,,,,,,
+KRC,,Real Estate,2.16,0.03,0.1013,31.19,0.12,3.69
+KMB,,Consumer Defensive,5.04,0.04,0.0584,285.37,0.33,94.68
+KIM,,Real Estate,1.0,0.03,0.1056,13.62,0.68,9.23
+KMI,,Energy,1.17,0.03,0.0796,24.28,2.22,53.95
+KNSL,,Financial Services,0.68,0.05,0.0958,15.59,0.02,0.36
+KEX,No dividend,,,,,,,
+KKR,,Financial Services,0.74,0.05,0.132,9.48,0.89,8.44
+KLAC,,Technology,7.6,0.07,0.1107,199.63,0.13,26.4
+KNX,,Industrials,0.72,0.04,0.0986,12.78,0.16,2.07
+KSS,,Consumer Cyclical,0.5,0.06,0.1262,8.01,0.11,0.9
+KHC,,Consumer Defensive,1.6,0.04,0.0516,143.45,1.18,169.79
+KR,,Consumer Defensive,1.4,0.04,0.0698,48.79,0.66,32.26
+KD,No dividend,,,,,,,
+LHX,,Industrials,4.8,0.04,0.079,127.97,0.19,23.94
+LH,,Healthcare,2.88,0.05,0.0783,106.72,0.08,8.87
+LRCX,,Technology,0.92,0.07,0.1217,19.03,1.27,24.14
+LAMR,No beta,,,,,,,
+LW,,Consumer Defensive,1.48,0.04,0.0651,61.23,0.14,8.53
+LSTR,,Industrials,1.6,0.04,0.0834,38.36,0.03,1.33
+LVS,,Consumer Cyclical,1.0,0.06,0.0934,31.77,0.69,21.81
+LSCC,No dividend,,,,,,,
+LAZ,,Financial Services,2.0,0.05,0.1056,37.8,0.09,3.57
+LEA,,Consumer Cyclical,3.08,0.06,0.105,72.51,0.05,3.86
+LEG,,Consumer Cyclical,0.2,0.06,0.0766,12.76,0.14,1.73
+LDOS,,Technology,1.6,0.07,0.0737,459.23,0.13,58.92
+LEN,,Consumer Cyclical,2.0,0.06,0.105,47.14,0.23,10.73
+LULU,No dividend,,,,,,,
+LITE,No dividend,,,,,,,
+LYFT,No dividend,,,,,,,
+LYB,,Basic Materials,5.48,0.04,0.0836,130.67,0.32,42.03
+MTB,,Financial Services,5.4,0.05,0.0718,260.0,0.16,40.63
+MTSI,No dividend,,,,,,,
+M,,Consumer Cyclical,0.73,0.06,0.1287,11.27,0.27,3.06
+MORN,,Financial Services,1.82,0.05,0.0881,50.12,0.04,2.11
+MOS,,Basic Materials,0.88,0.04,0.0961,16.31,0.32,5.18
+MS,,Financial Services,4.0,0.05,0.1054,75.87,1.6,121.11
+MSI,,Technology,4.36,0.07,0.0889,246.89,0.17,41.13
+MP,No dividend,,,,,,,
+COOP,No dividend,,,,,,,
+MSA,,Industrials,2.12,0.04,0.0877,46.18,0.04,1.81
+MSM,,Industrials,3.4,0.04,0.0836,81.16,0.06,4.52
+MSCI,,Financial Services,7.2,0.05,0.104,140.08,0.08,10.84
+MUSA,,Consumer Cyclical,2.0,0.06,0.0624,901.36,0.02,17.39
+NDAQ,,Financial Services,1.08,0.05,0.0904,28.08,0.57,16.11
+NTRA,No dividend,,,,,,,
+NFG,,Energy,2.14,0.03,0.0736,50.52,0.09,4.56
+NSA,,Real Estate,2.28,0.03,0.0961,35.53,0.08,2.73
+NCNO,No dividend,,,,,,,
+NTAP,,Technology,2.08,0.07,0.111,54.25,0.2,10.86
+NFLX,No dividend,,,,,,,
+NBIX,No dividend,,,,,,,
+NFE,,Energy,0.4,0.03,0.0927,6.57,0.27,1.8
+NYT,,Communication Services,0.72,0.05,0.0941,17.15,0.16,2.78
+NWL,,Consumer Defensive,0.28,0.04,0.0872,6.17,0.42,2.59
+NEU,,Basic Materials,11.0,0.04,0.0645,467.63,0.01,4.39
+NEM,,Basic Materials,1.0,0.04,0.0573,60.24,1.1,66.17
+NWSA,,Communication Services,0.2,0.05,0.1015,4.08,0.38,1.53
+NWS,,Communication Services,0.2,0.05,0.1015,4.08,0.19,0.77
+NXST,,Communication Services,7.44,0.05,0.0914,188.73,0.03,5.72
+NEE,,Utilities,2.27,0.03,0.0716,56.25,2.06,115.83
+NKE,,Consumer Cyclical,1.6,0.06,0.1032,39.22,1.19,46.59
+NI,,Utilities,1.12,0.03,0.0677,30.62,0.47,14.42
+NNN,,Real Estate,2.4,0.03,0.0864,43.79,0.19,8.27
+NDSN,,Industrials,3.12,0.04,0.0849,72.25,0.06,4.08
+NSC,,Industrials,5.4,0.04,0.1043,87.4,0.22,19.61
+NTRS,,Financial Services,3.2,0.05,0.1044,61.82,0.19,11.79
+NOC,,Industrials,9.24,0.04,0.049,1072.5,0.14,153.56
+NCLH,No dividend,,,,,,,
+NOV,,Energy,0.51,0.03,0.1056,6.95,0.37,2.58
+NRG,,Utilities,1.76,0.03,0.0966,27.21,0.19,5.26
+NU,No dividend,,,,,,,
+NUE,,Basic Materials,2.2,0.04,0.126,26.59,0.23,6.14
+NTNX,No dividend,,,,,,,
+NVT,,Industrials,0.8,0.04,0.1069,12.43,0.16,2.0
+NVDA,,Technology,0.04,0.07,0.145,0.57,24.39,13.92
+NVR,No dividend,,,,,,,
+ORLY,No dividend,,,,,,,
+OXY,,Energy,0.96,0.03,0.0859,17.7,0.98,17.42
+OGE,,Utilities,1.69,0.03,0.0694,44.23,0.2,8.91
+OKTA,No dividend,,,,,,,
+ODFL,,Industrials,1.12,0.04,0.1019,18.83,0.21,3.96
+ORI,,Financial Services,1.16,0.05,0.0804,40.0,0.25,9.94
+OLN,,Basic Materials,0.8,0.04,0.1156,11.01,0.11,1.26
+OLLI,No dividend,,,,,,,
+OHI,,Real Estate,2.68,0.03,0.0736,63.27,0.29,18.66
+OMC,,Communication Services,2.8,0.05,0.0879,77.5,0.19,15.01
+ONON,No dividend,,,,,,,
+ON,No dividend,,,,,,,
+OMF,,Financial Services,4.16,0.05,0.1004,86.72,0.12,10.31
+OKE,,Energy,4.12,0.03,0.0895,71.3,0.63,44.9
+ONTO,No dividend,,,,,,,
+ORCL,,Technology,2.0,0.07,0.1107,52.6,2.81,147.73
+OGN,,Healthcare,0.08,0.05,0.0691,4.39,0.26,1.14
+OSK,,Industrials,2.04,0.04,0.1104,30.16,0.06,1.93
+OTIS,,Industrials,1.68,0.04,0.0873,36.97,0.39,14.51
+OVV,,Energy,1.2,0.03,0.0955,18.86,0.26,4.85
+OC,,Industrials,2.76,0.04,0.1054,43.88,0.08,3.67
+PCAR,,Industrials,1.32,0.04,0.086,29.83,0.53,15.67
+PKG,,Consumer Cyclical,5.0,0.06,0.0838,222.61,0.09,20.03
+PLTR,No dividend,,,,,,,
+PANW,No dividend,,,,,,,
+PK,,Real Estate,1.0,0.03,0.1283,10.48,0.2,2.09
+PH,,Industrials,7.2,0.04,0.1077,110.59,0.13,14.13
+PSN,No dividend,,,,,,,
+PAYX,,Technology,4.32,0.07,0.0855,298.45,0.36,107.51
+PAYC,,Technology,1.5,0.07,0.0812,143.1,0.06,8.05
+PCTY,No dividend,,,,,,,
+PYPL,No dividend,,,,,,,
+PEGA,,Technology,0.24,0.07,0.095,10.28,0.17,1.76
+PENN,No dividend,,,,,,,
+PAG,,Consumer Cyclical,5.28,0.06,0.0834,239.43,0.07,15.81
+PNR,,Industrials,1.0,0.04,0.0934,19.47,0.16,3.19
+PEN,No dividend,,,,,,,
+PEP,,Consumer Defensive,5.69,0.04,0.0639,247.23,1.37,338.47
+PFGC,No dividend,,,,,,,
+PR,,Energy,0.6,0.03,0.105,8.24,0.7,5.79
+PRGO,,Healthcare,1.16,0.05,0.0644,84.49,0.14,11.62
+PSA,,Real Estate,12.0,0.03,0.0827,234.52,0.18,41.15
+PEG,,Utilities,2.52,0.03,0.0645,75.31,0.5,37.59
+PHM,,Consumer Cyclical,0.88,0.06,0.1012,22.62,0.2,4.46
+PSTG,No dividend,,,,,,,
+PVH,,Consumer Cyclical,0.15,0.06,0.1304,2.26,0.05,0.11
+QGEN,,Healthcare,0.25,0.05,0.0729,11.46,0.22,2.48
+QRVO,No dividend,,,,,,,
+QCOM,,Technology,3.56,0.07,0.1009,123.1,1.08,132.82
+PWR,,Industrials,0.4,0.04,0.0949,7.58,0.15,1.13
+QS,No dividend,,,,,,,
+DGX,,Healthcare,3.2,0.05,0.064,239.45,0.11,26.78
+QDEL,No dividend,,,,,,,
+QXO,No dividend,,,,,,,
+RAL,No dividend,,,,,,,
+RL,,Consumer Cyclical,3.65,0.06,0.1161,69.01,0.04,2.67
+RRC,,Energy,0.36,0.03,0.0708,9.09,0.24,2.16
+RJF,,Financial Services,2.0,0.05,0.0929,48.92,0.2,9.75
+RYN,,Real Estate,1.09,0.03,0.0915,18.26,0.15,2.83
+RBA,,Industrials,1.24,0.04,0.0775,34.37,0.19,6.38
+RBC,No dividend,,,,,,,
+O,,Real Estate,3.23,0.03,0.0789,68.08,0.91,62.25
+RDDT,No dividend,,,,,,,
+RRX,,Industrials,1.4,0.04,0.0977,25.22,0.07,1.67
+REG,,Real Estate,2.82,0.03,0.0928,46.26,0.18,8.4
+REGN,,Healthcare,3.52,0.05,0.0577,480.25,0.1,50.03
+RF,,Financial Services,1.06,0.05,0.0911,27.11,0.89,24.19
+RGA,,Financial Services,3.6,0.05,0.0706,183.85,0.07,12.15
+RS,,Basic Materials,4.8,0.04,0.0843,112.72,0.05,5.93
+RNR,,Financial Services,1.6,0.05,0.0559,283.78,0.05,13.36
+RGEN,No dividend,,,,,,,
+RSG,,Industrials,2.5,0.04,0.0711,83.5,0.31,26.07
+RMD,,Healthcare,2.4,0.05,0.0791,86.73,0.15,12.72
+RVMD,No dividend,,,,,,,
+RVTY,,Healthcare,0.28,0.05,0.086,8.17,0.12,0.95
+REXR,,Real Estate,1.72,0.03,0.0956,27.02,0.24,6.39
+REYN,,Consumer Cyclical,0.92,0.06,0.0693,104.73,0.21,22.03
+RH,No dividend,,,,,,,
+RNG,No dividend,,,,,,,
+RITM,,Real Estate,1.0,0.03,0.1025,14.2,0.53,7.53
+RIVN,No dividend,,,,,,,
+RLI,,Financial Services,0.64,0.05,0.0713,31.51,0.09,2.89
+RHI,,Industrials,2.36,0.04,0.0902,48.85,0.1,4.97
+HOOD,No dividend,,,,,,,
+RBLX,No dividend,,,,,,,
+RKT,No dividend,,,,,,,
+ROK,,Industrials,5.24,0.04,0.1086,79.41,0.11,8.93
+ROIV,No dividend,,,,,,,
+ROKU,No dividend,,,,,,,
+ROL,,Consumer Cyclical,0.66,0.06,0.075,46.71,0.48,22.64
+ROP,,Technology,3.3,0.07,0.0898,178.26,0.11,19.18
+ROST,,Consumer Cyclical,1.62,0.06,0.0958,47.96,0.33,15.68
+RCL,,Consumer Cyclical,3.0,0.06,0.149,35.73,0.27,9.71
+RGLD,,Basic Materials,1.8,0.04,0.0731,56.63,0.07,3.73
+RPRX,,Healthcare,0.88,0.05,0.0681,51.15,0.43,22.11
+RPM,,Basic Materials,2.04,0.04,0.0913,41.32,0.13,5.3
+RTX,,Industrials,2.72,0.04,0.0743,82.58,1.34,110.53
+RBRK,No dividend,,,,,,,
+RYAN,,Financial Services,0.48,0.05,0.0727,22.23,0.13,2.85
+R,,Industrials,3.64,0.04,0.0893,76.82,0.04,3.13
+SPGI,,Financial Services,3.84,0.05,0.099,82.25,0.31,25.11
+SWKS,,Technology,2.84,0.07,0.0962,115.81,0.15,17.19
+SFD,No beta,,,,,,,
+SJM,,Consumer Defensive,4.4,0.04,0.056,285.71,0.11,30.48
+SW,,Consumer Cyclical,1.72,0.06,0.0914,58.08,0.52,30.32
+SNA,,Industrials,8.56,0.04,0.0777,236.36,0.05,12.33
+SNOW,No dividend,,,,,,,
+SOFI,No dividend,,,,,,,
+SOLV,No dividend,,,,,,,
+SGI,,Consumer Cyclical,0.6,0.06,0.1025,14.95,0.21,3.12
+SON,,Consumer Cyclical,2.12,0.06,0.0744,156.58,0.1,15.44
+SHC,No dividend,,,,,,,
+SO,,Utilities,2.96,0.03,0.0592,104.47,1.1,114.92
+SCCO,,Basic Materials,3.2,0.04,0.09,66.5,0.8,53.47
+SSB,,Financial Services,2.4,0.05,0.0793,86.02,0.1,8.71
+LUV,,Industrials,0.72,0.04,0.102,12.07,0.53,6.34
+SPB,,Consumer Defensive,1.88,0.04,0.0823,46.25,0.02,1.12
+SPR,No dividend,,,,,,,
+SPOT,No dividend,,,,,,,
+SSNC,,Technology,1.0,0.07,0.102,33.39,0.24,8.15
+STAG,,Real Estate,1.49,0.03,0.0855,27.63,0.19,5.16
+SARO,No dividend,,,,,,,
+SWK,,Industrials,3.32,0.04,0.0973,60.26,0.15,9.33
+SBUX,,Consumer Cyclical,2.44,0.06,0.0902,85.67,1.14,97.38
+STWD,,Real Estate,1.92,0.03,0.1045,26.55,0.37,9.75
+STT,,Financial Services,3.36,0.05,0.114,55.13,0.28,15.64
+STLD,,Basic Materials,2.0,0.04,0.1088,30.25,0.15,4.49
+STE,,Healthcare,2.52,0.05,0.0863,72.98,0.1,7.19
+SF,,Financial Services,1.84,0.05,0.0952,42.71,0.1,4.36
+SYK,,Healthcare,3.36,0.05,0.0859,98.35,0.38,37.6
+SMMT,No dividend,,,,,,,
+SUI,,Real Estate,4.16,0.03,0.0819,82.5,0.13,10.33
+SMCI,No dividend,,,,,,,
+SYF,,Financial Services,1.2,0.05,0.1131,19.97,0.37,7.43
+SNPS,No dividend,,,,,,,
+SNV,,Financial Services,1.56,0.05,0.1009,32.18,0.14,4.47
+SYY,,Consumer Defensive,2.16,0.04,0.0826,52.72,0.48,25.17
+TMUS,,Communication Services,3.52,0.05,0.0714,172.52,1.13,194.15
+TTWO,No dividend,,,,,,,
+TLN,No dividend,,,,,,,
+TPR,,Consumer Cyclical,1.4,0.06,0.1155,26.74,0.21,5.55
+TRGP,,Energy,4.0,0.03,0.0962,62.24,0.22,13.39
+TGT,,Consumer Defensive,4.5,0.04,0.1003,77.59,0.45,35.25
+SNX,,Technology,1.76,0.07,0.1007,61.33,0.08,5.06
+FTI,,Energy,0.2,0.03,0.0919,3.33,0.41,1.37
+TDY,No dividend,,,,,,,
+TFX,,Healthcare,1.36,0.05,0.0938,32.57,0.04,1.44
+TEM,No dividend,,,,,,,
+THC,No dividend,,,,,,,
+TDC,No dividend,,,,,,,
+TER,,Technology,0.48,0.07,0.1244,9.44,0.16,1.5
+TSLA,No dividend,,,,,,,
+TTEK,,Industrials,0.26,0.04,0.086,5.88,0.26,1.54
+TXN,,Technology,5.44,0.07,0.0911,276.44,0.91,251.33
+TPL,,Energy,6.4,0.03,0.097,98.45,0.02,2.26
+TXRH,,Consumer Cyclical,2.72,0.06,0.084,119.89,0.07,7.95
+TXT,,Industrials,0.08,0.04,0.098,1.43,0.18,0.26
+TMO,,Healthcare,1.72,0.05,0.0779,64.72,0.38,24.44
+TFSL,,Financial Services,1.13,0.05,0.0787,41.38,0.28,11.62
+UBER,No dividend,,,,,,,
+UI,,Technology,2.4,0.07,0.107,69.33,0.06,4.19
+UDR,,Real Estate,1.72,0.03,0.0822,33.92,0.33,11.24
+UGI,,Utilities,1.5,0.03,0.0934,24.38,0.21,5.24
+PATH,No dividend,,,,,,,
+ULTA,No dividend,,,,,,,
+RARE,No dividend,,,,,,,
+UAA,No dividend,,,,,,,
+UA,No dividend,,,,,,,
+UNP,,Industrials,5.52,0.04,0.0926,109.16,0.59,64.73
+UAL,No dividend,,,,,,,
+UPS,,Industrials,6.56,0.04,0.0947,124.82,0.74,91.88
+URI,,Industrials,7.16,0.04,0.1248,87.81,0.06,5.65
+UTHR,No dividend,,,,,,,
+UWMC,,Financial Services,0.4,0.05,0.1255,5.56,0.22,1.22
+UNH,,Healthcare,8.84,0.05,0.0631,707.47,0.91,641.77
+U,No dividend,,,,,,,
+OLED,,Technology,1.8,0.07,0.1127,45.15,0.05,2.15
+UHS,,Healthcare,0.8,0.05,0.1015,16.32,0.06,0.93
+UNM,,Financial Services,1.84,0.05,0.0612,173.24,0.17,29.51
+USFD,No dividend,,,,,,,
+MTN,,Consumer Cyclical,8.88,0.06,0.0852,372.81,0.04,13.85
+VLO,,Energy,4.52,0.03,0.0901,77.47,0.31,24.07
+VMI,,Industrials,2.72,0.04,0.0962,50.3,0.02,0.99
+VVV,No dividend,,,,,,,
+VEEV,No dividend,,,,,,,
+VTR,,Real Estate,1.92,0.03,0.0849,36.05,0.45,16.38
+VLTO,No beta,,,,,,,
+VRSN,,Technology,3.08,0.07,0.0793,354.52,0.09,33.12
+VRSK,,Industrials,1.8,0.04,0.082,44.59,0.14,6.23
+VZ,,Communication Services,2.71,0.05,0.0594,303.49,4.22,1279.6
+VRTX,No dividend,,,,,,,
+VRT,,Industrials,0.15,0.04,0.1272,1.79,0.38,0.68
+VSTS,No beta,,,,,,,
+VFC,,Consumer Cyclical,0.36,0.06,0.1239,5.97,0.39,2.33
+VTRS,,Healthcare,0.48,0.05,0.0851,14.38,1.17,16.76
+VICI,,Real Estate,1.73,0.03,0.076,38.71,1.07,41.28
+VIK,No dividend,,,,,,,
+VKTX,No dividend,,,,,,,
+VNOM,No beta,,,,,,,
+VIRT,,Financial Services,0.96,0.05,0.0747,40.83,0.08,3.45
+V,,Financial Services,2.36,0.05,0.0871,66.76,1.7,113.4
+VST,,Utilities,0.9,0.03,0.105,12.36,0.34,4.19
+VNT,,Technology,0.1,0.07,0.1054,3.03,0.15,0.44
+VNO,,Real Estate,0.74,0.03,0.1165,8.81,0.19,1.69
+VOYA,,Financial Services,1.8,0.05,0.0892,48.17,0.1,4.64
+VMC,,Basic Materials,1.96,0.04,0.0819,48.61,0.13,6.42
+WPC,,Real Estate,3.6,0.03,0.0802,73.92,0.22,16.19
+WRB,,Financial Services,0.36,0.05,0.0611,34.19,0.38,12.97
+GWW,,Industrials,9.04,0.04,0.0983,161.25,0.05,7.71
+WAB,,Industrials,1.0,0.04,0.0952,18.85,0.17,3.22
+WBA,,Healthcare,1.0,0.05,0.0789,36.38,0.87,31.49
+WMT,,Consumer Defensive,0.94,0.04,0.0739,28.86,7.98,230.33
+DIS,,Communication Services,1.0,0.05,0.1171,15.64,1.8,28.13
+WBD,No dividend,,,,,,,
+WM,,Industrials,3.3,0.04,0.0729,104.28,0.4,42.01
+WAT,No dividend,,,,,,,
+WSO,,Industrials,12.0,0.04,0.0875,262.98,0.03,9.17
+W,No dividend,,,,,,,
+WFRD,,Energy,1.0,0.03,0.13,10.3,0.07,0.74
+WBS,,Financial Services,1.6,0.05,0.0911,40.92,0.17,6.84
+WEC,,Utilities,3.57,0.03,0.0615,116.78,0.32,37.59
+WFC,,Financial Services,1.8,0.05,0.0994,38.25,3.2,122.54
+WELL,,Real Estate,2.96,0.03,0.0859,54.52,0.67,36.46
+WEN,"r <= g (r=0.06, g=0.06)",,,,,,,
+WCC,,Industrials,1.82,0.04,0.1305,20.92,0.05,1.02
+WST,,Healthcare,0.88,0.05,0.0924,21.82,0.07,1.57
+WAL,,Financial Services,1.52,0.05,0.1055,28.75,0.11,3.17
+WDC,,Technology,0.4,0.07,0.1208,8.42,0.35,2.94
+WU,,Financial Services,0.94,0.05,0.0725,43.81,0.32,14.15
+WLK,,Basic Materials,2.1,0.04,0.086,47.46,0.13,6.09
+WEX,No dividend,,,,,,,
+WY,,Real Estate,0.84,0.03,0.0942,13.47,0.72,9.72
+WHR,,Consumer Cyclical,7.0,0.06,0.0965,203.4,0.06,11.37
+WTM,,Financial Services,1.0,0.05,0.0596,109.74,0.0,0.28
+WMB,,Energy,2.0,0.03,0.0749,45.85,1.22,55.99
+WSM,,Consumer Cyclical,2.64,0.06,0.1127,53.1,0.12,6.53
+WTW,,Financial Services,3.68,0.05,0.0746,157.12,0.1,15.33
+WSC,,Industrials,0.28,0.04,0.0995,4.89,0.18,0.89
+WING,,Consumer Cyclical,1.2,0.06,0.1288,18.49,0.03,0.52
+WTFC,,Financial Services,2.0,0.05,0.0822,65.17,0.07,4.36
+WOLF,No dividend,,,,,,,
+WWD,,Industrials,1.12,0.04,0.1042,18.15,0.06,1.09
+WDAY,No dividend,,,,,,,
+WH,,Consumer Cyclical,1.64,0.06,0.09,57.95,0.08,4.42
+WYNN,,Consumer Cyclical,1.0,0.06,0.1095,21.4,0.1,2.22
